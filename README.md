@@ -112,7 +112,7 @@ Full details of methodology, results, and conclusions are documented in the [**P
 ## ✨ Author
 
 **Abhishek Maheshwari**
-📧 [abhishek.maheshwari@example.com](mailto:abhishek.maheshwari@example.com)
+📧 [abhishekmaheshwari2436@gmail.com](mailto:abhishekmaheshwari2436@gmail.com)
 🌐 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/Abhishek-Maheshwari-778)
 
 ---
